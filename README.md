@@ -5,27 +5,27 @@ Este projeto é uma API desenvolvida em Laravel para simular o funcionamento do 
 
 # Autenticação:
 
-signin: Login de usuários.
-signup: Registro de novos usuários.
-me: Recuperar informações do usuário autenticado.
+signin: Login de usuários;
+signup: Registro de novos usuários;
+me: Recuperar informações do usuário autenticado;
 
 # Migrações:
 
-advertises: Tabela de anúncios.
-states: Tabela de estados.
-categories: Tabela de categorias.
+advertises: Tabela de anúncios;
+states: Tabela de estados;
+categories: Tabela de categorias;
 
 # Requisitos
-PHP >= 8.2
-Composer
-Laravel >= 8
+PHP >= 8.2;
+Composer;
+Laravel >= 8;
 MySQL
 
 # Instalação
 Clone o repositório:
 
 git clone https://github.com/keziaferretti/olx-api.git
-cd seu-repositorio
+
 
 # Instale as dependências:
 composer install
